@@ -1,0 +1,2 @@
+add_lunch_combo omni_jadelte-eng
+add_lunch_combo omni_jadelte-userdebug
